@@ -1,0 +1,3 @@
+﻿  MineSweep.cpp
+C:\Users\Hector\Documents\Languages\App dev\ImGui\imgui\examples\example_win32_directx12\MineSweep.cpp(80,14): warning C4189: 'inited': local variable is initialized but not referenced
+  example_win32_directx12.vcxproj -> C:\Users\Hector\Documents\Languages\App dev\ImGui\imgui\examples\example_win32_directx12\Debug\example_win32_directx12.exe
